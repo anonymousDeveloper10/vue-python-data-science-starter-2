@@ -23,4 +23,5 @@ yarn-error.log*
 /env
 /env/Lib
 /cruds/__pycache__/
-/flask-vue-crud-windows-starting
+
+*.pyc
